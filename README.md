@@ -3,4 +3,4 @@
 Mi Name is Ariel and you reached my information page
 
 - 🔭 I’m currently working on several IT & Networking projects
-- 📫 How to reach me: ariel[at]weher[dot]net | or check [my website](https://weher.net)
+- 📫 How to reach me: ariel[at]weher[dot]net or check [my website](https://weher.net)
